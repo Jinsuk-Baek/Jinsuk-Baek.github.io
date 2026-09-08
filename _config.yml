@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jinsuk Baek"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Jinsuk Baek"
 description              : &description "Academic website of Jinsuk Baek, Professor of Computer Science at Winston-Salem State University"
