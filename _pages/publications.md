@@ -9,73 +9,75 @@ For a complete and up-to-date publication record, please visit my
 
 ## Journal Articles
 
-1. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “Dual-Arm Synchronization Framework for Smart Kitchen Robot Systems,” *IEEE Access*, vol. 14, pp. 134316–134331, September 2026.
+## Journal Articles
 
-2. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “RL-ACK: A Reinforcement Learning-Based Adaptive ACK Framework for Heterogeneous Smart Kitchen IoT Networks,” *IEEE Access*, vol. 14, pp. 100508–100523, July 2026.
+34. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “Dual-Arm Synchronization Framework for Smart Kitchen Robot Systems,” *IEEE Access*, vol. 14, pp. 134316–134331, September 2026.
 
-3. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “Collaborative Multi-Robot Architecture for Smart Kitchens,” *IEEE Consumer Electronics Magazine*, pp. 1–8, April 2026.
+33. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “RL-ACK: A Reinforcement Learning-Based Adaptive ACK Framework for Heterogeneous Smart Kitchen IoT Networks,” *IEEE Access*, vol. 14, pp. 100508–100523, July 2026.
 
-4. YuanJie Li, Kyungmin Lim, **Jinsuk Baek**, and Minho Jo, “QCHFT: Quantum Cross-Hybrid Fine-Tuning for LLMs,” *IEEE Transactions on Quantum Engineering*, vol. 7, Article no. 2101021, pp. 1–21, May 2026.
+32. YuanJie Li, Kyungmin Lim, **Jinsuk Baek**, and Minho Jo, “QCHFT: Quantum Cross-Hybrid Fine-Tuning for LLMs,” *IEEE Transactions on Quantum Engineering*, vol. 7, Article no. 2101021, pp. 1–21, May 2026.
 
-5. YuanJie Li, **Jinsuk Baek**, and Minho Jo, “Quantum Principles in Concurrency: Toward Resolving Classical Synchronization Problems,” *KSII Transactions on Internet and Information Systems*, vol. 20, no. 5, pp. 2773–2796, May 2026.
+31. YuanJie Li, **Jinsuk Baek**, and Minho Jo, “Quantum Principles in Concurrency: Toward Resolving Classical Synchronization Problems,” *KSII Transactions on Internet and Information Systems*, vol. 20, no. 5, pp. 2773–2796, May 2026.
 
-6. Shiva Dahal, John T. Yi, and **Jinsuk Baek**, “Hardware-Aware Quantum Education: Six Modules Bridging Theory, Hardware, and Software for Next-Generation Quantum Workforce,” *KSII Transactions on Internet and Information Systems*, vol. 20, no. 5, pp. 2661–2686, May 2026.
+30. Shiva Dahal, John T. Yi, and **Jinsuk Baek**, “Hardware-Aware Quantum Education: Six Modules Bridging Theory, Hardware, and Software for Next-Generation Quantum Workforce,” *KSII Transactions on Internet and Information Systems*, vol. 20, no. 5, pp. 2661–2686, May 2026.
 
-7. Kemai Parker, Munene W. Kanampiu, and **Jinsuk Baek**, “Exploring Factors Contributing to Low Academic Performance in Winston-Salem Forsyth County Public Schools (WS/FCS),” *Information Systems*, vol. 25, no. 1, January 2024.
+29. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “Collaborative Multi-Robot Architecture for Smart Kitchens,” *IEEE Consumer Electronics Magazine*, pp. 1–8, April 2026.
 
-8. Cheonshik Kim, Ching-Nung Yang, **Jinsuk Baek**, and Lu Leng, “Survey on Data Hiding Based on Block Truncation Coding,” *Applied Sciences*, vol. 11, no. 19, Article 9209, October 2021.
+28. Kemai Parker, Munene W. Kanampiu, and **Jinsuk Baek**, “Exploring Factors Contributing to Low Academic Performance in Winston-Salem Forsyth County Public Schools (WS/FCS),” *Information Systems*, vol. 25, no. 1, January 2024.
 
-9. **Jinsuk Baek**, Munene W. Kanampiu, and Cheonshik Kim, “A Secure Internet of Things Smart Home Network: Design and Configuration,” *Applied Sciences*, vol. 11, no. 14, Article 6280, July 2021.
+27. Cheonshik Kim, Ching-Nung Yang, **Jinsuk Baek**, and Lu Leng, “Survey on Data Hiding Based on Block Truncation Coding,” *Applied Sciences*, vol. 11, no. 19, Article 9209, October 2021.
 
-10. Paul S. Fisher, Jimmy James II, **Jinsuk Baek**, and Cheonshik Kim, “Mining Intelligent Solution to Compensate Missing Data Context of Medical IoT Devices,” *Personal and Ubiquitous Computing*, vol. 22, no. 1, pp. 219–224, February 2018.
+26. **Jinsuk Baek**, Munene W. Kanampiu, and Cheonshik Kim, “A Secure Internet of Things Smart Home Network: Design and Configuration,” *Applied Sciences*, vol. 11, no. 14, Article 6280, July 2021.
 
-11. Doowon Kim, **Jinsuk Baek**, Paul S. Fisher, and Sangchul Kim, “fFTP: A Fast File Transfer Protocol for Home N-Screen Platform,” *Personal and Ubiquitous Computing*, vol. 22, no. 1, pp. 143–152, February 2018.
+25. Paul S. Fisher, Jimmy James II, **Jinsuk Baek**, and Cheonshik Kim, “Mining Intelligent Solution to Compensate Missing Data Context of Medical IoT Devices,” *Personal and Ubiquitous Computing*, vol. 22, no. 1, pp. 219–224, February 2018.
 
-12. Paul S. Fisher, Nawaf Aljohani, and **Jinsuk Baek**, “Generation of Finite Inductive, Pseudo Random, Binary Sequences,” *Journal of Information Processing Systems*, vol. 13, no. 6, pp. 1554–1574, December 2017.
+24. Doowon Kim, **Jinsuk Baek**, Paul S. Fisher, and Sangchul Kim, “fFTP: A Fast File Transfer Protocol for Home N-Screen Platform,” *Personal and Ubiquitous Computing*, vol. 22, no. 1, pp. 143–152, February 2018.
 
-13. **Jinsuk Baek** and Cheonshik Kim, “An Energy-Efficient Video Transport Protocol for Personal Cloud-Based Computing,” *Journal of Real-Time Image Processing*, vol. 12, no. 2, pp. 303–310, June 2016.
+23. Paul S. Fisher, Nawaf Aljohani, and **Jinsuk Baek**, “Generation of Finite Inductive, Pseudo Random, Binary Sequences,” *Journal of Information Processing Systems*, vol. 13, no. 6, pp. 1554–1574, December 2017.
 
-14. **Jinsuk Baek**, Min Gyung Kwak, and Paul S. Fisher, “A Smart Backoff Scheme for Multicast Flows in Wireless LAN,” *The Smart Computing Review*, vol. 5, no. 3, pp. 159–167, June 2015. **Invited Paper.**
+22. **Jinsuk Baek** and Cheonshik Kim, “An Energy-Efficient Video Transport Protocol for Personal Cloud-Based Computing,” *Journal of Real-Time Image Processing*, vol. 12, no. 2, pp. 303–310, June 2016.
 
-15. Paul S. Fisher, **Jinsuk Baek**, and Howard Fisher, “APPMPS: An Asynchronous, Parallel, Plastic, Multi-Processing System,” *IEEE Systems Journal*, vol. 9, no. 2, pp. 382–392, June 2015.
+21. **Jinsuk Baek**, Min Gyung Kwak, and Paul S. Fisher, “A Smart Backoff Scheme for Multicast Flows in Wireless LAN,” *The Smart Computing Review*, vol. 5, no. 3, pp. 159–167, June 2015. **Invited Paper.**
 
-16. Yong woon Ahn, Albert M. K. Cheng, **Jinsuk Baek**, Minho Jo, and Hsiao-Hwa Chen, “An Auto-Scaling Mechanism for Virtual Resources to Support Mobile, Pervasive, Real-time, Healthcare Applications in Cloud Computing,” *IEEE Network*, vol. 27, no. 5, pp. 62–68, October 2013.
+20. Paul S. Fisher, **Jinsuk Baek**, and Howard Fisher, “APPMPS: An Asynchronous, Parallel, Plastic, Multi-Processing System,” *IEEE Systems Journal*, vol. 9, no. 2, pp. 382–392, June 2015.
 
-17. Mohammad M. Fuad, Debzani Deb, and **Jinsuk Baek**, “Static Analysis, Code Transformation and Runtime Profiling for Self-healing,” *Journal of Computers*, vol. 8, no. 5, pp. 1127–1135, May 2013.
+19. Yong woon Ahn, Albert M. K. Cheng, **Jinsuk Baek**, Minho Jo, and Hsiao-Hwa Chen, “An Auto-Scaling Mechanism for Virtual Resources to Support Mobile, Pervasive, Real-time, Healthcare Applications in Cloud Computing,” *IEEE Network*, vol. 27, no. 5, pp. 62–68, October 2013.
 
-18. **Jinsuk Baek**, Min Gyung Kwak, and Paul S. Fisher, “A Hybrid Upstream Bandwidth Allocation Method for Multimedia Communications in EPONs,” *IEEK Transactions on Smart Processing and Computing*, vol. 1, no. 1, pp. 27–33, August 2012. **Invited Paper.**
+18. Mohammad M. Fuad, Debzani Deb, and **Jinsuk Baek**, “Static Analysis, Code Transformation and Runtime Profiling for Self-healing,” *Journal of Computers*, vol. 8, no. 5, pp. 1127–1135, May 2013.
 
-19. **Jinsuk Baek**, Paul S. Fisher, Minho Jo, and Hsiao-Hwa Chen, “A Reliable Overlay Video Transport Protocol for Multicast Agents in Wireless Mesh Networks,” *International Journal of Communication Systems*, vol. 25, no. 5, pp. 553–570, May 2012.
+17. **Jinsuk Baek**, Min Gyung Kwak, and Paul S. Fisher, “A Hybrid Upstream Bandwidth Allocation Method for Multimedia Communications in EPONs,” *IEEK Transactions on Smart Processing and Computing*, vol. 1, no. 1, pp. 27–33, August 2012. **Invited Paper.**
 
-20. **Jinsuk Baek**, Doowon Kim, Paul S. Fisher, and Minho Jo, “An Adaptive Primary Path Switching Scheme for Seamless mSCTP Handover,” *The Smart Computing Review*, vol. 1, no. 2, pp. 150–160, December 2011. **Invited Paper.**
+16. **Jinsuk Baek**, Paul S. Fisher, Minho Jo, and Hsiao-Hwa Chen, “A Reliable Overlay Video Transport Protocol for Multicast Agents in Wireless Mesh Networks,” *International Journal of Communication Systems*, vol. 25, no. 5, pp. 553–570, May 2012.
 
-21. Yong woon Ahn, **Jinsuk Baek**, Albert M. K. Cheng, Paul S. Fisher, and Minho Jo, “A Fair Transmission Opportunity by Detecting and Punishing the Malicious Wireless Stations in IEEE 802.11e EDCA Network,” *IEEE Systems Journal*, vol. 5, no. 4, pp. 486–494, December 2011.
+15. **Jinsuk Baek**, Doowon Kim, Paul S. Fisher, and Minho Jo, “An Adaptive Primary Path Switching Scheme for Seamless mSCTP Handover,” *The Smart Computing Review*, vol. 1, no. 2, pp. 150–160, December 2011. **Invited Paper.**
 
-22. **Jinsuk Baek**, Jan Fischer, Hsiao-Hwa Chen, and Minho Jo, “On a Moving Direction Pattern Based MAP Selection Model for HMIPv6 Networks,” *Computer Communications*, vol. 34, no. 2, pp. 150–158, February 2011.
+14. Yong woon Ahn, **Jinsuk Baek**, Albert M. K. Cheng, Paul S. Fisher, and Minho Jo, “A Fair Transmission Opportunity by Detecting and Punishing the Malicious Wireless Stations in IEEE 802.11e EDCA Network,” *IEEE Systems Journal*, vol. 5, no. 4, pp. 486–494, December 2011.
 
-23. **Jinsuk Baek**, Sun Kyong An, and Paul S. Fisher, “Dynamic Cluster Header Selection and Conditional Re-clustering for Energy Efficient Wireless Sensor Networks,” *IEEE Transactions on Consumer Electronics*, vol. 56, no. 4, pp. 2249–2257, November 2010.
+13. **Jinsuk Baek**, Jan Fischer, Hsiao-Hwa Chen, and Minho Jo, “On a Moving Direction Pattern Based MAP Selection Model for HMIPv6 Networks,” *Computer Communications*, vol. 34, no. 2, pp. 150–158, February 2011.
 
-24. **Jinsuk Baek**, Paul S. Fisher, Minho Jo, and Hsiao-Hwa Chen, “A Lightweight SCTP for Partial Reliable Overlay Video Multicast Service for Mobile Terminals,” *IEEE Transactions on Multimedia*, vol. 12, no. 7, pp. 754–766, November 2010.
+12. **Jinsuk Baek**, Sun Kyong An, and Paul S. Fisher, “Dynamic Cluster Header Selection and Conditional Re-clustering for Energy Efficient Wireless Sensor Networks,” *IEEE Transactions on Consumer Electronics*, vol. 56, no. 4, pp. 2249–2257, November 2010.
 
-25. Tarandeep Kaur and **Jinsuk Baek**, “A Strategic Deployment and Cluster-Header Selection for Wireless Sensor Networks,” *IEEE Transactions on Consumer Electronics*, vol. 55, no. 4, pp. 1890–1897, November 2009.
+11. **Jinsuk Baek**, Paul S. Fisher, Minho Jo, and Hsiao-Hwa Chen, “A Lightweight SCTP for Partial Reliable Overlay Video Multicast Service for Mobile Terminals,” *IEEE Transactions on Multimedia*, vol. 12, no. 7, pp. 754–766, November 2010.
 
-26. Young woon Ahn, Albert Cheng, **Jinsuk Baek**, and Paul S. Fisher, “A Multiplayer, Real Time, Game Protocol Architecture to Reduce Network Latency,” *IEEE Transactions on Consumer Electronics*, vol. 55, no. 4, pp. 1883–1889, November 2009.
+10. Tarandeep Kaur and **Jinsuk Baek**, “A Strategic Deployment and Cluster-Header Selection for Wireless Sensor Networks,” *IEEE Transactions on Consumer Electronics*, vol. 55, no. 4, pp. 1890–1897, November 2009.
 
-27. **Jinsuk Baek**, Kaur Gurpreet, and Junghoon Yang, “A New Hybrid Caching Architecture for Cooperative Caching,” *Journal of Ubiquitous Convergence Technology*, vol. 2, no. 1, pp. 1–11, August 2008.
+9. Young woon Ahn, Albert Cheng, **Jinsuk Baek**, and Paul S. Fisher, “A Multiplayer, Real Time, Game Protocol Architecture to Reduce Network Latency,” *IEEE Transactions on Consumer Electronics*, vol. 55, no. 4, pp. 1883–1889, November 2009.
 
-28. **Jinsuk Baek** and Jehan-François Pâris, “A Scalable Recovery Tree Construction Considering Packet Losses Correlation for Reliable Multicast,” *KSII Transactions on Internet and Information Systems*, vol. 2, no. 2, pp. 82–102, April 2008.
+8. **Jinsuk Baek**, Kaur Gurpreet, and Junghoon Yang, “A New Hybrid Caching Architecture for Cooperative Caching,” *Journal of Ubiquitous Convergence Technology*, vol. 2, no. 1, pp. 1–11, August 2008.
 
-29. **Jinsuk Baek**, Paul S. Fisher, and Mingyung Kwak, “FI-Based Local Group Key Generation/Distribution for Mobile Multicast in a Hierarchical Mobile IPv6 Network,” *KSII Transactions on Internet and Information Systems*, vol. 2, no. 1, pp. 5–22, February 2008.
+7. **Jinsuk Baek** and Jehan-François Pâris, “A Scalable Recovery Tree Construction Considering Packet Losses Correlation for Reliable Multicast,” *KSII Transactions on Internet and Information Systems*, vol. 2, no. 2, pp. 82–102, April 2008.
 
-30. **Jinsuk Baek**, Cheonshik Kim, and YouSik Hong, “Packet Loss Patterns Adaptive Feedback Scheduling for Reliable Multicast,” *Journal of Ubiquitous Convergence Technology*, vol. 1, no. 1, pp. 28–34, November 2007.
+6. **Jinsuk Baek**, Paul S. Fisher, and Mingyung Kwak, “FI-Based Local Group Key Generation/Distribution for Mobile Multicast in a Hierarchical Mobile IPv6 Network,” *KSII Transactions on Internet and Information Systems*, vol. 2, no. 1, pp. 5–22, February 2008.
 
-31. **Jinsuk Baek** and Wood Kanampiu, “A NAK Suppression Scheme for Group Communications Considering the Spatial Locality of Packet Losses,” *International Journal of Computer Science and Network Security*, vol. 6, no. 10, pp. 158–167, October 2006.
+5. **Jinsuk Baek**, Cheonshik Kim, and YouSik Hong, “Packet Loss Patterns Adaptive Feedback Scheduling for Reliable Multicast,” *Journal of Ubiquitous Convergence Technology*, vol. 1, no. 1, pp. 28–34, November 2007.
 
-32. **Jinsuk Baek** and Eunjung Lee, “A Dynamic Authentication, Authorization, and Accounting (AAA) Resolution for Hierarchical Mobile IPv6 Network,” *International Journal of Computer Science and Network Security*, vol. 6, no. 7B, pp. 170–179, July 2006.
+4. **Jinsuk Baek** and Wood Kanampiu, “A NAK Suppression Scheme for Group Communications Considering the Spatial Locality of Packet Losses,” *International Journal of Computer Science and Network Security*, vol. 6, no. 10, pp. 158–167, October 2006.
 
-33. **Jinsuk Baek** and Eunjung Lee, “A Dual Mode Buffer for Reliable Multicast in Mobile IP Networks,” *International Journal of Computer Science and Network Security*, vol. 6, no. 5B, pp. 1–8, May 2006.
+3. **Jinsuk Baek** and Eunjung Lee, “A Dynamic Authentication, Authorization, and Accounting (AAA) Resolution for Hierarchical Mobile IPv6 Network,” *International Journal of Computer Science and Network Security*, vol. 6, no. 7B, pp. 170–179, July 2006.
 
-34. **Jinsuk Baek** and Jehan-François Pâris, “A Heuristic Buffer Management and Retransmission Control Scheme for Tree-Based Reliable Multicast,” *ETRI Journal*, vol. 27, no. 1, pp. 1–12, February 2005.
+2. **Jinsuk Baek** and Eunjung Lee, “A Dual Mode Buffer for Reliable Multicast in Mobile IP Networks,” *International Journal of Computer Science and Network Security*, vol. 6, no. 5B, pp. 1–8, May 2006.
+
+1. **Jinsuk Baek** and Jehan-François Pâris, “A Heuristic Buffer Management and Retransmission Control Scheme for Tree-Based Reliable Multicast,” *ETRI Journal*, vol. 27, no. 1, pp. 1–12, February 2005.
 
 
 ## Refereed Conference Papers
