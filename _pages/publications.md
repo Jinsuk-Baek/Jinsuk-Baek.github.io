@@ -78,124 +78,125 @@ For a complete and up-to-date publication record, please visit my
 1. **Jinsuk Baek** and Jehan-François Pâris, “A Heuristic Buffer Management and Retransmission Control Scheme for Tree-Based Reliable Multicast,” *ETRI Journal*, vol. 27, no. 1, pp. 1–12, February 2005.
 
 
+
 ## Refereed Conference Papers
 
-1. Kyungmin Lim, **Jinsuk Baek**, Munene W. Kanampiu, and Minho Jo, “Auxiliary-Branch Complexity in Mamba for Efficient LLMs,” *Proceedings of the 21st International Conference on Intelligent Computing (INTCOM 2026)*, July 2026.
+60. Kyungmin Lim, **Jinsuk Baek**, Munene W. Kanampiu, and Minho Jo, “Auxiliary-Branch Complexity in Mamba for Efficient LLMs,” *Proceedings of the 21st International Conference on Intelligent Computing (INTCOM 2026)*, July 2026.
 
-2. Kyungmin Lim, **Jinsuk Baek**, and Minho Jo, “A Teleportation-Based Quantum Repeater with Multi-Route Redundancy and Stabilizer Verification,” *Proceedings of 2026 International Conference on Artificial Intelligence, Robotics, and Control (AIRC 2026)*, April 2026.
+59. Kyungmin Lim, **Jinsuk Baek**, and Minho Jo, “A Teleportation-Based Quantum Repeater with Multi-Route Redundancy and Stabilizer Verification,” *Proceedings of 2026 International Conference on Artificial Intelligence, Robotics, and Control (AIRC 2026)*, April 2026.
 
-3. Munene W. Kanampiu and **Jinsuk Baek**, “A Cooperative Retransmission Control Scheme for CoAP in Constrained IoT Networks,” *Proceedings of 2026 IEEE International Conference on Advanced Communication Technology (ICACT 2026)*, February 2026. **Outstanding Paper Award.**
+58. Munene W. Kanampiu and **Jinsuk Baek**, “A Cooperative Retransmission Control Scheme for CoAP in Constrained IoT Networks,” *Proceedings of 2026 IEEE International Conference on Advanced Communication Technology (ICACT 2026)*, February 2026. **Outstanding Paper Award.**
 
-4. Sunghwan Kim, I Gede Pasek Suta Wijaya, **Jinsuk Baek**, and Minho Jo, “Bayesian Deep Learning Approach for Traffic Accident Severity Prediction with Uncertainty Estimation,” *Proceedings of 2025 International Conference on Internet (ICONI 2025)*, December 2025.
+57. Sunghwan Kim, I Gede Pasek Suta Wijaya, **Jinsuk Baek**, and Minho Jo, “Bayesian Deep Learning Approach for Traffic Accident Severity Prediction with Uncertainty Estimation,” *Proceedings of 2025 International Conference on Internet (ICONI 2025)*, December 2025.
 
-5. Shymik Smith, Munene W. Kanampiu, and **Jinsuk Baek**, “A Robust Pick-and-Place Pipeline for Collaborative Robotic Arms: Toward Autonomous Unmanned Kitchen Systems,” *Proceedings of 2025 International Conference on Computational Science & Computational Intelligence (CSCI 2025)*, December 2025.
+56. Shymik Smith, Munene W. Kanampiu, and **Jinsuk Baek**, “A Robust Pick-and-Place Pipeline for Collaborative Robotic Arms: Toward Autonomous Unmanned Kitchen Systems,” *Proceedings of 2025 International Conference on Computational Science & Computational Intelligence (CSCI 2025)*, December 2025.
 
-6. Youngwon Yu, Kyungmin Lim, Taras Maksmyuk, **Jinsuk Baek**, Vladimir Simic, and Minho Jo, “RAG-Based Generative Large Language Model for University Regulations,” *Proceedings of the 20th Asia Pacific International Conference on Information Science and Technology (APIC-IST 2025)*, July 2025.
+55. Youngwon Yu, Kyungmin Lim, Taras Maksmyuk, **Jinsuk Baek**, Vladimir Simic, and Minho Jo, “RAG-Based Generative Large Language Model for University Regulations,” *Proceedings of the 20th Asia Pacific International Conference on Information Science and Technology (APIC-IST 2025)*, July 2025.
 
-7. Hitesh Pambhar and **Jinsuk Baek**, “Enhancing MQTT for Targeted Communication in Automated Smart Homes,” *Proceedings of 2024 International Conference on Computational Science & Computational Intelligence (CSCI 2024)*, December 2024.
+54. Hitesh Pambhar and **Jinsuk Baek**, “Enhancing MQTT for Targeted Communication in Automated Smart Homes,” *Proceedings of 2024 International Conference on Computational Science & Computational Intelligence (CSCI 2024)*, December 2024.
 
-8. Ahmad Hijaz, Ibrahim Yakubu, and **Jinsuk Baek**, “Integrating Secure Quantum Digital Signature into Quantum Communications,” *Proceedings of 2024 International Conference on Emergent Quantum Technologies (ICEQT 2024)*, July 2024.
+53. Ahmad Hijaz, Ibrahim Yakubu, and **Jinsuk Baek**, “Integrating Secure Quantum Digital Signature into Quantum Communications,” *Proceedings of 2024 International Conference on Emergent Quantum Technologies (ICEQT 2024)*, July 2024.
 
-9. Makayla Morgan, Ahmad Hijaz, and **Jinsuk Baek**, “WSSU Quantum Mini Tennis: Learning Quantum Gates and State Vectors Through Gaming,” *Proceedings of the 2024 Association of Computer Science Departments at Minority Institutions Symposium (ADMI 2024)*, April 2024.
+52. Makayla Morgan, Ahmad Hijaz, and **Jinsuk Baek**, “WSSU Quantum Mini Tennis: Learning Quantum Gates and State Vectors Through Gaming,” *Proceedings of the 2024 Association of Computer Science Departments at Minority Institutions Symposium (ADMI 2024)*, April 2024.
 
-10. Teo Kim, **Jinsuk Baek**, and John Yi, “Quantum Authentication Protocol for Secure Quantum Superdense Coding,” *Proceedings of 2024 IEEE Southeast Conference (IEEE SoutheastCon 2024)*, March 2024.
+51. Teo Kim, **Jinsuk Baek**, and John Yi, “Quantum Authentication Protocol for Secure Quantum Superdense Coding,” *Proceedings of 2024 IEEE Southeast Conference (IEEE SoutheastCon 2024)*, March 2024.
 
-11. John Yi, **Jinsuk Baek**, John Merle, Xiuping Tao, and Kasra Sardashiti, “Preparing a Diverse Quantum Workforce in Carolinas through Hands-on Education and Training Experiences,” *American Physical Society March Meeting (APS 2024)*, March 2024.
+50. John Yi, **Jinsuk Baek**, John Merle, Xiuping Tao, and Kasra Sardashiti, “Preparing a Diverse Quantum Workforce in Carolinas through Hands-on Education and Training Experiences,” *American Physical Society March Meeting (APS 2024)*, March 2024.
 
-12. Jaylin Butts, Emmanuel White, and **Jinsuk Baek**, “A Quantum Teleportation Protocol Secured by a Blockchain Technology,” *Proceedings of 2023 International Conference on Emergent Quantum Technologies (ICEQT 2023)*, pp. 1665–1669, July 2023.
+49. Jaylin Butts, Emmanuel White, and **Jinsuk Baek**, “A Quantum Teleportation Protocol Secured by a Blockchain Technology,” *Proceedings of 2023 International Conference on Emergent Quantum Technologies (ICEQT 2023)*, pp. 1665–1669, July 2023.
 
-13. **Jinsuk Baek** and Munene W. Kanampiu, “A MQTT-based Smart Home Monitoring System: Design and Implementation,” *Proceedings of 2022 International Conference on Wireless Sensor Networks, Ubiquitous Computing and Applications*, December 2022.
+48. **Jinsuk Baek** and Munene W. Kanampiu, “A MQTT-based Smart Home Monitoring System: Design and Implementation,” *Proceedings of 2022 International Conference on Wireless Sensor Networks, Ubiquitous Computing and Applications*, December 2022.
 
-14. **Jinsuk Baek** and Munene W. Kanampiu, “A MQTT-based Soil Moisture Level Notification System for a Smart Farm,” *Proceedings of 2021 IEEE International Conference on Power and Energy Applications (ICPEA 2021)*, October 2021.
+47. **Jinsuk Baek** and Munene W. Kanampiu, “A MQTT-based Soil Moisture Level Notification System for a Smart Farm,” *Proceedings of 2021 IEEE International Conference on Power and Energy Applications (ICPEA 2021)*, October 2021.
 
-15. **Jinsuk Baek** and Munene W. Kanampiu, “A Strategic Sensor Placement for a Smart Farm Water Sprinkler System: A Computational Model,” *Proceedings of 2021 IEEE International Conference on Advanced Communication Technology (ICACT 2021)*, February 2021.
+46. **Jinsuk Baek** and Munene W. Kanampiu, “A Strategic Sensor Placement for a Smart Farm Water Sprinkler System: A Computational Model,” *Proceedings of 2021 IEEE International Conference on Advanced Communication Technology (ICACT 2021)*, February 2021.
 
-16. **Jinsuk Baek**, Munene W. Kanampiu, and Byeong Hyun Ko, “A Set Notation Configuration CoAP Scheme for Internet of Things,” *Proceedings of 2020 IEEE International Conference on Advanced Communication Technology (ICACT 2020)*, February 2020. **Outstanding Paper Award.**
+45. **Jinsuk Baek**, Munene W. Kanampiu, and Byeong Hyun Ko, “A Set Notation Configuration CoAP Scheme for Internet of Things,” *Proceedings of 2020 IEEE International Conference on Advanced Communication Technology (ICACT 2020)*, February 2020. **Outstanding Paper Award.**
 
-17. **Jinsuk Baek** and Munene W. Kanampiu, “An Evaluation of How Much HTTP/1.1 Outperforms HTTP/1.0,” *Proceedings of 2019 International Conference on Science, Technology, Engineering and Management (ICSTEM 2019)*, pp. 1–3, March 2019.
+44. **Jinsuk Baek** and Munene W. Kanampiu, “An Evaluation of How Much HTTP/1.1 Outperforms HTTP/1.0,” *Proceedings of 2019 International Conference on Science, Technology, Engineering and Management (ICSTEM 2019)*, pp. 1–3, March 2019.
 
-18. Hitesh Pambhar and **Jinsuk Baek**, “An Implementation for Framework for Remote Alarm System Using an Arduino Microcontroller,” *Proceedings of 2018 International Conference on Recent Advances in Engineering and Technology (ICRAET 2018)*, pp. 1–3, October 2018.
+43. Hitesh Pambhar and **Jinsuk Baek**, “An Implementation for Framework for Remote Alarm System Using an Arduino Microcontroller,” *Proceedings of 2018 International Conference on Recent Advances in Engineering and Technology (ICRAET 2018)*, pp. 1–3, October 2018.
 
-19. Geethanjali Ramaiah and **Jinsuk Baek**, “Client-Based, On-Demand Multimedia Service Using an Advanced Multicast Transmission Technique,” *Proceedings of Seoul International Conference on Engineering and Applied Science (SICEAS)*, pp. 123–125, December 2017.
+42. Geethanjali Ramaiah and **Jinsuk Baek**, “Client-Based, On-Demand Multimedia Service Using an Advanced Multicast Transmission Technique,” *Proceedings of Seoul International Conference on Engineering and Applied Science (SICEAS)*, pp. 123–125, December 2017.
 
-20. **Jinsuk Baek** and Paul S. Fisher, “Packet Damage-Resistant Analysis Using a Data Mining Mechanism in Wireless Sensor Networks,” *Proceedings of 13th IEEE International Conference on Intelligent Environments (IE 2017)*, pp. 176–179, August 2017.
+41. **Jinsuk Baek** and Paul S. Fisher, “Packet Damage-Resistant Analysis Using a Data Mining Mechanism in Wireless Sensor Networks,” *Proceedings of 13th IEEE International Conference on Intelligent Environments (IE 2017)*, pp. 176–179, August 2017.
 
-21. **Jinsuk Baek** and Paul S. Fisher, “A Simple Broadcast-Based Service Discovery for Home-Based Lighting Control Network,” *Proceedings of Seoul International Conference on Engineering and Applied Science (SICEAS)*, pp. 455–457, February 2017.
+40. **Jinsuk Baek** and Paul S. Fisher, “A Simple Broadcast-Based Service Discovery for Home-Based Lighting Control Network,” *Proceedings of Seoul International Conference on Engineering and Applied Science (SICEAS)*, pp. 455–457, February 2017.
 
-22. Jamal Pete, Paul S. Fisher, and **Jinsuk Baek**, “Reliable Decision Making: A Comparison between Rues from Associative Learning and Finite Inductive Sequences,” *Proceedings of 7th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2016)*, pp. 461–468, August 2016.
+39. Jamal Pete, Paul S. Fisher, and **Jinsuk Baek**, “Reliable Decision Making: A Comparison between Rues from Associative Learning and Finite Inductive Sequences,” *Proceedings of 7th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling (APARM 2016)*, pp. 461–468, August 2016.
 
-23. Min Gyung Kwak, **Jinsuk Baek**, and Paul S. Fisher, “Retransmission Control Scheme for RDM Protocol for Lightning Control Networks,” *Proceedings of 2016 IEEE International Conference on Advanced Communication Technology (ICACT 2016)*, pp. 86–90, February 2016. **Outstanding Paper Award.**
+38. Min Gyung Kwak, **Jinsuk Baek**, and Paul S. Fisher, “Retransmission Control Scheme for RDM Protocol for Lightning Control Networks,” *Proceedings of 2016 IEEE International Conference on Advanced Communication Technology (ICACT 2016)*, pp. 86–90, February 2016. **Outstanding Paper Award.**
 
-24. Min Gyung Kwak, **Jinsuk Baek**, and Paul S. Fisher, “A Degree Constrained Spanning Tree-Based Device Discovery Scheme for Lightning Control Networks,” *Proceedings of 2015 IEEE International Conference on Internet of Things (IoT 2015)*, pp. 1–2, October 2015.
+37. Min Gyung Kwak, **Jinsuk Baek**, and Paul S. Fisher, “A Degree Constrained Spanning Tree-Based Device Discovery Scheme for Lightning Control Networks,” *Proceedings of 2015 IEEE International Conference on Internet of Things (IoT 2015)*, pp. 1–2, October 2015.
 
-25. Cheonshik Kim, **Jinsuk Baek**, and Paul S. Fisher, “Lossless Data Hiding for Binary Document Images Using *n*-Pairs Pattern,” *International Conference on Information Security and Cryptology (ICISC 2014)*, pp. 317–327, December 2014.
+36. Cheonshik Kim, **Jinsuk Baek**, and Paul S. Fisher, “Lossless Data Hiding for Binary Document Images Using *n*-Pairs Pattern,” *International Conference on Information Security and Cryptology (ICISC 2014)*, pp. 317–327, December 2014.
 
-26. Paul S. Fisher, Min Gyung Kwak, Eunjung Lee, and **Jinsuk Baek**, “A Signature Scheme for Digital Imagery,” *2014 International Conference on Information Science and Applications (ICISA 2014)*, pp. 115–118, May 2014.
+35. Paul S. Fisher, Min Gyung Kwak, Eunjung Lee, and **Jinsuk Baek**, “A Signature Scheme for Digital Imagery,” *2014 International Conference on Information Science and Applications (ICISA 2014)*, pp. 115–118, May 2014.
 
-27. Doowon Kim, **Jinsuk Baek**, and Paul S. Fisher, “Adaptive Video Streaming over HTTP,” *2014 ACMSE Conference (ACMSE 2014)*, March 2014. (Poster session)
+34. Doowon Kim, **Jinsuk Baek**, and Paul S. Fisher, “Adaptive Video Streaming over HTTP,” *2014 ACMSE Conference (ACMSE 2014)*, March 2014. (Poster session)
 
-28. Doowon Kim, Chaitanya Achan, **Jinsuk Baek**, and Paul S. Fisher, “Implementation of Framework to Identify Potential Phishing Websites,” *2013 IEEE Intelligence and Security Informatics (IEEE ISI 2013)*, p. 268, June 2013. (Poster session)
+33. Doowon Kim, Chaitanya Achan, **Jinsuk Baek**, and Paul S. Fisher, “Implementation of Framework to Identify Potential Phishing Websites,” *2013 IEEE Intelligence and Security Informatics (IEEE ISI 2013)*, p. 268, June 2013. (Poster session)
 
-29. Howard Brown, Min Gyung Kwak, **Jinsuk Baek**, and Paul S. Fisher, “Impact of Multicast Flow for Performance of IEEE 802.11e in Wireless LAN,” *Proceedings of 2013 IEEE International Conference on Advanced Communication Technology (ICACT 2013)*, pp. 768–773, January 2013.
+32. Howard Brown, Min Gyung Kwak, **Jinsuk Baek**, and Paul S. Fisher, “Impact of Multicast Flow for Performance of IEEE 802.11e in Wireless LAN,” *Proceedings of 2013 IEEE International Conference on Advanced Communication Technology (ICACT 2013)*, pp. 768–773, January 2013.
 
-30. Hyunju Jo, Sangchul Kim, **Jinsuk Baek**, and Paul S. Fisher, “Motion Recognition with Smart Phone Embedded 3-Axis Accelerometer Sensor,” *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2012)*, pp. 919–924, October 2012.
+31. Hyunju Jo, Sangchul Kim, **Jinsuk Baek**, and Paul S. Fisher, “Motion Recognition with Smart Phone Embedded 3-Axis Accelerometer Sensor,” *IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2012)*, pp. 919–924, October 2012.
 
-31. Wood Kanampiu, Justin Zhan, and **Jinsuk Baek**, “A Secure Group Collaboration Protocol for Non-Verbal Human Social Signals Featuring Deception Detection,” *Proceedings of 2012 IEEE International Conference on Information Privacy, Security, Risk, and Trust (IEEE PASSAT 2012)*, pp. 813–818, September 2012.
+30. Wood Kanampiu, Justin Zhan, and **Jinsuk Baek**, “A Secure Group Collaboration Protocol for Non-Verbal Human Social Signals Featuring Deception Detection,” *Proceedings of 2012 IEEE International Conference on Information Privacy, Security, Risk, and Trust (IEEE PASSAT 2012)*, pp. 813–818, September 2012.
 
-32. Illyoung Choi, **Jinsuk Baek**, Sangchul Kim, and Paul S. Fisher, “A New File Systems Specialized for N-Screen Platforms,” *Proceedings of 2012 IEEE International Conference on Advanced Communication Technology (ICACT 2012)*, pp. 231–234, February 2012. **Outstanding Paper Award.**
+29. Illyoung Choi, **Jinsuk Baek**, Sangchul Kim, and Paul S. Fisher, “A New File Systems Specialized for N-Screen Platforms,” *Proceedings of 2012 IEEE International Conference on Advanced Communication Technology (ICACT 2012)*, pp. 231–234, February 2012. **Outstanding Paper Award.**
 
-33. Mohammad M. Fuad, Debzani Deb, and **Jinsuk Baek**, “Self-Healing by means of Runtime Execution Profiling,” *Proceedings of 2011 International Conference on Computer and Information Technology (ICCIT 2011)*, pp. 202–207, December 2011.
+28. Mohammad M. Fuad, Debzani Deb, and **Jinsuk Baek**, “Self-Healing by means of Runtime Execution Profiling,” *Proceedings of 2011 International Conference on Computer and Information Technology (ICCIT 2011)*, pp. 202–207, December 2011.
 
-34. Yong woon Ahn, Chaitanya Belwal, Albert M. K. Cheng, and **Jinsuk Baek**, “Improving QoS for ECG Data Transmission with Enhanced Admission Control in EDCA-Based WLANs,” *Proceedings of IEEE Global Telecommunications Conference (IEEE GLOBECOM 2011)*, pp. 1–5, December 2011.
+27. Yong woon Ahn, Chaitanya Belwal, Albert M. K. Cheng, and **Jinsuk Baek**, “Improving QoS for ECG Data Transmission with Enhanced Admission Control in EDCA-Based WLANs,” *Proceedings of IEEE Global Telecommunications Conference (IEEE GLOBECOM 2011)*, pp. 1–5, December 2011.
 
-35. Edward Jordan, **Jinsuk Baek**, and Wood Kanampiu, “Impact of Mobile Sink for Wireless Sensor Network,” *Proceedings of the 49th ACM Southeast Conference (ACM SE 2011)*, pp. 328–329, March 2011. (Poster session)
+26. Edward Jordan, **Jinsuk Baek**, and Wood Kanampiu, “Impact of Mobile Sink for Wireless Sensor Network,” *Proceedings of the 49th ACM Southeast Conference (ACM SE 2011)*, pp. 328–329, March 2011. (Poster session)
 
-36. Elijah Myers, Paul S. Fisher, Keith Irwin, **Jinsuk Baek**, and Joao Setubal, “The Complexity and Application of Syntactic Pattern Recognition Using Finite Inductive Strings,” *The 5th IAPR International Conference on Pattern Recognition in Bioinformatics (IAPR PRIB 2010)*, Lecture Notes in Computer Science, vol. 5780, pp. 125–136, September 2010.
+25. Elijah Myers, Paul S. Fisher, Keith Irwin, **Jinsuk Baek**, and Joao Setubal, “The Complexity and Application of Syntactic Pattern Recognition Using Finite Inductive Strings,” *The 5th IAPR International Conference on Pattern Recognition in Bioinformatics (IAPR PRIB 2010)*, Lecture Notes in Computer Science, vol. 5780, pp. 125–136, September 2010.
 
-37. **Jinsuk Baek**, Paul S. Fisher, and Minho Jo, “An Enhancement of mSCTP Handover with an Adaptive Primary Path Switching Scheme,” *Proceedings of IEEE Vehicular Technology Conference (IEEE VTC)*, September 2010.
+24. **Jinsuk Baek**, Paul S. Fisher, and Minho Jo, “An Enhancement of mSCTP Handover with an Adaptive Primary Path Switching Scheme,” *Proceedings of IEEE Vehicular Technology Conference (IEEE VTC)*, September 2010.
 
-38. Paul S. Fisher, John O. Adeyeye, **Jinsuk Baek**, and Joao Carlos Setubal, “Finite Inductive Sequences, Kolmogorov Complexity with Application to Genome Sequences,” *Proceedings of International Conference on Bioinformatics, Computational Biology, Genomics and Chemoinformatics (BCBGC-10)*, pp. 78–83, July 2010.
+23. Paul S. Fisher, John O. Adeyeye, **Jinsuk Baek**, and Joao Carlos Setubal, “Finite Inductive Sequences, Kolmogorov Complexity with Application to Genome Sequences,” *Proceedings of International Conference on Bioinformatics, Computational Biology, Genomics and Chemoinformatics (BCBGC-10)*, pp. 78–83, July 2010.
 
-39. **Jinsuk Baek**, Cheonshik Kim, Paul S. Fisher, and Hongyang Chao, “(N, 1) Steganography Approach for Secret Sharing with Digital Images,” *Proceedings of IEEE International Conference on Wireless Communications, Networking and Information Security (IEEE WCNIS 2010)*, pp. 325–329, June 2010.
+22. **Jinsuk Baek**, Cheonshik Kim, Paul S. Fisher, and Hongyang Chao, “(N, 1) Steganography Approach for Secret Sharing with Digital Images,” *Proceedings of IEEE International Conference on Wireless Communications, Networking and Information Security (IEEE WCNIS 2010)*, pp. 325–329, June 2010.
 
-40. Yong woon Ahn, Albert M. K. Cheng, **Jinsuk Baek**, and Paul Fisher, “Detection and Punishment of Malicious Wireless Stations in IEEE 802.11e EDCA Network,” *Proceedings of the 2010 IEEE Sarnoff Symposium (IEEE Sarnoff 2010)*, pp. 1–5, April 2010.
+21. Yong woon Ahn, Albert M. K. Cheng, **Jinsuk Baek**, and Paul Fisher, “Detection and Punishment of Malicious Wireless Stations in IEEE 802.11e EDCA Network,” *Proceedings of the 2010 IEEE Sarnoff Symposium (IEEE Sarnoff 2010)*, pp. 1–5, April 2010.
 
-41. Paul S. Fisher, **Jinsuk Baek**, and Minho Jo, “Program Readability: A Proposed Software Metric,” *Proceedings of the 2009 International Conference on Internet (ICONI & APIC-IST 2009)*, December 2009.
+20. Paul S. Fisher, **Jinsuk Baek**, and Minho Jo, “Program Readability: A Proposed Software Metric,” *Proceedings of the 2009 International Conference on Internet (ICONI & APIC-IST 2009)*, December 2009.
 
-42. Paul S. Fisher, Howard Fisher, **Jinsuk Baek**, and Cleopas Angaye, “Syntactic Pattern Recognition Using Finite Inductive Strings,” *Proceedings of the 4th IAPR International Conference on Pattern Recognition in Bioinformatics (IAPR PRIB 2009)*, Lecture Notes in Computer Science, vol. 5780, pp. 89–101, September 2009.
+19. Paul S. Fisher, Howard Fisher, **Jinsuk Baek**, and Cleopas Angaye, “Syntactic Pattern Recognition Using Finite Inductive Strings,” *Proceedings of the 4th IAPR International Conference on Pattern Recognition in Bioinformatics (IAPR PRIB 2009)*, Lecture Notes in Computer Science, vol. 5780, pp. 89–101, September 2009.
 
-43. **Jinsuk Baek**, Min Gyung Kwak, Paul S. Fisher, and Elva J. Jones, “A Web Object Management Policy for Cooperative Hybrid Caching Architecture,” *Proceedings of the 2nd IEEE International Conference on Computer Science and Information Technology (IEEE ICCSIT 2009)*, pp. 61–65, August 2009.
+18. **Jinsuk Baek**, Min Gyung Kwak, Paul S. Fisher, and Elva J. Jones, “A Web Object Management Policy for Cooperative Hybrid Caching Architecture,” *Proceedings of the 2nd IEEE International Conference on Computer Science and Information Technology (IEEE ICCSIT 2009)*, pp. 61–65, August 2009.
 
-44. **Jinsuk Baek**, Sun Kyong An, Paul S. Fisher, and Elva J. Jones, “Dynamic Cluster Header Selection with Self-incentive for Wireless Sensor Networks,” *Proceedings of the 2009 IEEE Sarnoff Symposium (IEEE Sarnoff 2009)*, pp. 1–5, March–April 2009.
+17. **Jinsuk Baek**, Sun Kyong An, Paul S. Fisher, and Elva J. Jones, “Dynamic Cluster Header Selection with Self-incentive for Wireless Sensor Networks,” *Proceedings of the 2009 IEEE Sarnoff Symposium (IEEE Sarnoff 2009)*, pp. 1–5, March–April 2009.
 
-45. **Jinsuk Baek**, Paul S. Fisher, and Mingyung Kwak, “FI-based File Access Predictor,” *Proceedings of the 49th ACM Southeast Conference (ACM SE 2009)*, pp. 1–4, March 2009.
+16. **Jinsuk Baek**, Paul S. Fisher, and Mingyung Kwak, “FI-based File Access Predictor,” *Proceedings of the 49th ACM Southeast Conference (ACM SE 2009)*, pp. 1–4, March 2009.
 
-46. **Jinsuk Baek**, Derrick Hargrove, Paul S. Fisher, and Cheonshik Kim, “An Urgent NAK with Prediction of Lost Packets for Fast Error Recovery in a Reliable Multicast,” *Proceedings of the 2008 International Workshop on Ubiquitous Convergence Technology (IWUCT 2008)*, pp. 113–120, August 2008.
+15. **Jinsuk Baek**, Derrick Hargrove, Paul S. Fisher, and Cheonshik Kim, “An Urgent NAK with Prediction of Lost Packets for Fast Error Recovery in a Reliable Multicast,” *Proceedings of the 2008 International Workshop on Ubiquitous Convergence Technology (IWUCT 2008)*, pp. 113–120, August 2008.
 
-47. **Jinsuk Baek**, Paul S. Fisher, Mingyung Kwak, and Hyungoo Han, “Secure Scalable and Reliable Multicast with FI-Based Local Group Key,” *Proceedings of the 2008 International Conference on Internet Computing (ICOMP 2008)*, pp. 188–194, July 2008.
+14. **Jinsuk Baek**, Paul S. Fisher, Mingyung Kwak, and Hyungoo Han, “Secure Scalable and Reliable Multicast with FI-Based Local Group Key,” *Proceedings of the 2008 International Conference on Internet Computing (ICOMP 2008)*, pp. 188–194, July 2008.
 
-48. **Jinsuk Baek**, Paul S. Fisher, Yuri Kim, Mingyung Kwak, and Hyungoo Han, “An Object Discarding Policy with FI Systems for Cooperative Hybrid Caching Architecture,” *Proceedings of the 46th ACM Southeast Conference (ACM SE 2008)*, pp. 411–416, March 2008.
+13. **Jinsuk Baek**, Paul S. Fisher, Yuri Kim, Mingyung Kwak, and Hyungoo Han, “An Object Discarding Policy with FI Systems for Cooperative Hybrid Caching Architecture,” *Proceedings of the 46th ACM Southeast Conference (ACM SE 2008)*, pp. 411–416, March 2008.
 
-49. YouSik Hong, Cheonshik Kim, and **Jinsuk Baek**, “A Study on the Traffic Accident Examination Using Artificial Intelligence,” *Proceedings of the 2007 International Ubiquitous Conference/Workshop for Wireless and Ubiquitous Systems (IUC/IUW 2007)*, pp. 41–46, July 2007.
+12. YouSik Hong, Cheonshik Kim, and **Jinsuk Baek**, “A Study on the Traffic Accident Examination Using Artificial Intelligence,” *Proceedings of the 2007 International Ubiquitous Conference/Workshop for Wireless and Ubiquitous Systems (IUC/IUW 2007)*, pp. 41–46, July 2007.
 
-50. **Jinsuk Baek** and Wood Kanampiu, “An Admission Control Scheme for Repair Server in a Tree-Based Reliable Multicast,” *Proceedings of the 45th ACM Southeast Conference (ACM SE 2007)*, pp. 191–196, March 2007.
+11. **Jinsuk Baek** and Wood Kanampiu, “An Admission Control Scheme for Repair Server in a Tree-Based Reliable Multicast,” *Proceedings of the 45th ACM Southeast Conference (ACM SE 2007)*, pp. 191–196, March 2007.
 
-51. Eunjung Lee, **Jinsuk Baek**, and Stephen S.-H Huang, “A Dynamic Mobility Management Scheme for VoIP Services,” *Proceedings of the 3rd International Conference on Information Technology: Next Generation (ITNG 2006)*, pp. 340–345, April 2006.
+10. Eunjung Lee, **Jinsuk Baek**, and Stephen S.-H Huang, “A Dynamic Mobility Management Scheme for VoIP Services,” *Proceedings of the 3rd International Conference on Information Technology: Next Generation (ITNG 2006)*, pp. 340–345, April 2006.
 
-52. **Jinsuk Baek** and Jehan-François Pâris, “A Tree-Based Reliable Multicast Scheme Exploiting the Temporal Locality of Transmission Errors,” *Proceedings of the 24th IEEE International Performance Computing and Communications Conference (IEEE IPCCC 2005)*, pp. 275–282, April 2005.
+9. **Jinsuk Baek** and Jehan-François Pâris, “A Tree-Based Reliable Multicast Scheme Exploiting the Temporal Locality of Transmission Errors,” *Proceedings of the 24th IEEE International Performance Computing and Communications Conference (IEEE IPCCC 2005)*, pp. 275–282, April 2005.
 
-53. **Jinsuk Baek** and Jehan-François Pâris, “An Efficient Retransmission Control Scheme for Tree-Based Reliable Multicast,” *Proceedings of the 2004 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS 2004)*, pp. 145–152, July 2004.
+8. **Jinsuk Baek** and Jehan-François Pâris, “An Efficient Retransmission Control Scheme for Tree-Based Reliable Multicast,” *Proceedings of the 2004 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS 2004)*, pp. 145–152, July 2004.
 
-54. **Jinsuk Baek** and Jehan-François Pâris, “A Heuristic Buffer Management Scheme for Tree-Based Reliable Multicast,” *Proceedings of the 4th IEEE International Symposium on Computer Communications (IEEE ISCC 2004)*, pp. 1123–1128, June–July 2004.
+7. **Jinsuk Baek** and Jehan-François Pâris, “A Heuristic Buffer Management Scheme for Tree-Based Reliable Multicast,” *Proceedings of the 4th IEEE International Symposium on Computer Communications (IEEE ISCC 2004)*, pp. 1123–1128, June–July 2004.
 
-55. **Jinsuk Baek** and Jehan-François Pâris, “An Efficient Buffer Management Scheme for Tree-Based Reliable Multicast Using Infrequent Acknowledgements,” *Proceedings of the 23rd IEEE International Performance Computing and Communications Conference (IEEE IPCCC 2004)*, pp. 13–20, April 2004.
+6. **Jinsuk Baek** and Jehan-François Pâris, “An Efficient Buffer Management Scheme for Tree-Based Reliable Multicast Using Infrequent Acknowledgements,” *Proceedings of the 23rd IEEE International Performance Computing and Communications Conference (IEEE IPCCC 2004)*, pp. 13–20, April 2004.
 
-56. **Jinsuk Baek** and Eunjung Lee, “An Improved Logical Tree Construction Scheme for Reliable Multicast,” *Proceedings of the 11th IFIP International Conference on Telecommunication Systems (IFIP ICTS 2003)*, pp. 110–121, October 2003.
+5. **Jinsuk Baek** and Eunjung Lee, “An Improved Logical Tree Construction Scheme for Reliable Multicast,” *Proceedings of the 11th IFIP International Conference on Telecommunication Systems (IFIP ICTS 2003)*, pp. 110–121, October 2003.
 
-57. **Jinsuk Baek**, “A New Configuration Scheme for ACK Tree in Reliable Multicast Protocols,” *Proceedings of the 2002 International Conference on Computer Communications (ICCC 2002)*, pp. 972–987, August 2002.
+4. **Jinsuk Baek**, “A New Configuration Scheme for ACK Tree in Reliable Multicast Protocols,” *Proceedings of the 2002 International Conference on Computer Communications (ICCC 2002)*, pp. 972–987, August 2002.
 
-58. **Jinsuk Baek**, “A Hybrid Configuration of ACK Tree for Multicast Protocol,” *Proceedings of the 2002 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS 2002)*, pp. 852–856, July 2002.
+3. **Jinsuk Baek**, “A Hybrid Configuration of ACK Tree for Multicast Protocol,” *Proceedings of the 2002 International Symposium on Performance Evaluation of Computer and Telecommunication Systems (SPECTS 2002)*, pp. 852–856, July 2002.
 
-59. **Jinsuk Baek** and Sangchul Kim, “An Efficient MF (Model-Failure) Object Coding Method for Object-Oriented Coder,” *Proceedings of the 24th KISS Fall Conference*, pp. 131–134, November 1997.
+2. **Jinsuk Baek** and Sangchul Kim, “An Efficient MF (Model-Failure) Object Coding Method for Object-Oriented Coder,” *Proceedings of the 24th KISS Fall Conference*, pp. 131–134, November 1997.
 
-60. Heekyung Kim, **Jinsuk Baek**, and Sangchul Kim, “CAI System for C and UNIX Using a Hypermedia Technology,” *Proceedings of the 22nd KISS Spring Conference*, pp. 1063–1066, April 1996.
+1. Heekyung Kim, **Jinsuk Baek**, and Sangchul Kim, “CAI System for C and UNIX Using a Hypermedia Technology,” *Proceedings of the 22nd KISS Spring Conference*, pp. 1063–1066, April 1996.
