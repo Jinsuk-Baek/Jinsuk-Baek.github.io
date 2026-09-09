@@ -23,13 +23,14 @@ network control, and practical quantum computing.
 
 ## Intelligent Robotic Systems
 
-![Intelligent Robotic Systems](/images/Figure2.png)
+<p align="center">
+  <img src="/images/Figure2.png" alt="Intelligent Robotic Systems" width="75%">
+</p>
 
 My research in intelligent robotic systems focuses on reliable perception,
 coordination, and manipulation in dynamic physical environments. Current
 topics include dual-arm robotic systems, RGB-D vision, synchronization,
 adaptive control, and robotic cooking.
-
 ---
 
 ## IoT and Networked Intelligent Systems
