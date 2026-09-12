@@ -9,7 +9,7 @@ For a complete and up-to-date publication record, please visit my
 
 ## Journal Articles
 
-34. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “Dual-Arm Synchronization Framework for Smart Kitchen Robot Systems,” *IEEE Access*, vol. 14, pp. 134316–134331, September 2026.
+34. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “Dual-Arm Synchronization Framework for Smart Kitchen Robot Systems,” *IEEE Access*, vol. 14, pp. 134316–134331, August 2026.
 
 33. **Jinsuk Baek**, Sanhong Lee, and Ju Hong Park, “RL-ACK: A Reinforcement Learning-Based Adaptive ACK Framework for Heterogeneous Smart Kitchen IoT Networks,” *IEEE Access*, vol. 14, pp. 100508–100523, July 2026.
 
